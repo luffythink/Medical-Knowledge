@@ -12,7 +12,7 @@ author: CJ.
 
 诺贝尔文学奖获得者吉卜林说：“我有六个诚实的仆人，他们教给了我一切。他们的名字是：什么（What）和为什么(Why)、何时(When)和怎样(How)、何地(Where)和谁(Who)”。借用这六个诚实的仆人对''感冒问题''梳理如下：
 
-[](/感冒常识指南1.0.png)
+![](./感冒常识指南1.0.png)
 
 ## Who/when/where
 
@@ -26,7 +26,7 @@ author: CJ.
 
 > 比如：急性上呼吸道感染简称上感，又称感冒，是包括鼻腔、鼻窦咽或喉部急性炎症的总称。
 >
-> ![image-20200812155401284](/Users/luffythink/Documents/luffythink.github.io/_posts/postimg/image-20200812155401284.png)
+> ![image](http://githubluffythinkio.oss-cn-beijing.aliyuncs.com/typora/%E6%84%9F%E5%86%926w%E5%8E%9F%E5%88%991.0.png)
 >
 > @截图：《内科学》第八版
 
